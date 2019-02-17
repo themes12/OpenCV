@@ -1,5 +1,4 @@
 import cv2, sys, numpy, os
-from selenium import webdriver
 import time
 haar_file = 'haarcascade_frontalface_default.xml'
 datasets = 'datasets'
